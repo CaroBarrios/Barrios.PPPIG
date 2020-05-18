@@ -1,12 +1,13 @@
 # depslib dependency file v1.0
-1589841978 source:c:\users\german.segovia\desktop\primerparcialprogramacion\funciones.c
+1589844262 source:c:\users\german.segovia\desktop\primerparcialprogramacion\funciones.c
 	<stdio.h>
 	<stdlib.h>
+	<string.h>
 	"Funciones.h"
 
-1589841539 c:\users\german.segovia\desktop\primerparcialprogramacion\funciones.h
+1589844288 c:\users\german.segovia\desktop\primerparcialprogramacion\funciones.h
 
-1589842112 source:c:\users\german.segovia\desktop\primerparcialprogramacion\main.c
+1589844354 source:c:\users\german.segovia\desktop\primerparcialprogramacion\main.c
 	<stdio.h>
 	<stdlib.h>
 	"Funciones.h"
